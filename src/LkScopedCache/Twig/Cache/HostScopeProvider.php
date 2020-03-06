@@ -1,6 +1,6 @@
 <?php
 
-namespace Lk\ScopedCache\Twig\Cache;
+namespace LkScopedCache\Twig\Cache;
 
 use Symfony\Component\HttpFoundation\RequestStack;
 

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Lk\ScopedCache\Twig\Cache;
+namespace LkScopedCache\Twig\Cache;
 
 use Twig\Cache\CacheInterface;
 use Twig\Cache\FilesystemCache;

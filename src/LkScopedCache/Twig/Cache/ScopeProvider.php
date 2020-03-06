@@ -1,6 +1,6 @@
 <?php
 
-namespace Lk\ScopedCache\Twig\Cache;
+namespace LkScopedCache\Twig\Cache;
 
 interface ScopeProvider
 {

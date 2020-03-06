@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Lk\ScopedCache;
+namespace LkScopedCache;
 
 use Lk\ScopedCache\DependencyInjection\Compiler\TwigCachePass;
 use Symfony\Component\DependencyInjection\ContainerBuilder;

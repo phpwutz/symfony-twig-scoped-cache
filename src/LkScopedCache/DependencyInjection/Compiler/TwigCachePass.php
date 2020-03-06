@@ -1,6 +1,6 @@
 <?php
 
-namespace Lk\ScopedCache\DependencyInjection\Compiler;
+namespace LkScopedCache\DependencyInjection\Compiler;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\DependencyInjection\Reference;
