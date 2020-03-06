@@ -4,5 +4,10 @@
   "require": {
     "php": "^7.2",
     "symfony/twig-bundle": "^4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "LkScopedCache\\": "src/LkScopedCache"
+    }
   }
 }
