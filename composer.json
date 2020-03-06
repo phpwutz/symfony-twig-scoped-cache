@@ -1,5 +1,5 @@
 {
-  "name": "lk/symfony-twig-scoped-cache",
+  "name": "lkoell/symfony-twig-scoped-cache",
   "description": "Scoped twig template cache. Useful if you run many domains/clients with separate templates but don't want to clear all template caches just to update one domain/client.\n",
   "require": {
     "php": "^7.2",
